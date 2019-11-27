@@ -9,6 +9,8 @@ def map(array)
   end
   new 
 end
+
+
 # map_to_negative(x) {|n| n * -1}
 
 # require 'pry'
