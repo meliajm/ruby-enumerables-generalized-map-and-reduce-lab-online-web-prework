@@ -13,6 +13,7 @@ end
 def reduce(array, option=nil)
   if option
     sum = option
+    i = 0
   else
     sum = array[0]
   end
