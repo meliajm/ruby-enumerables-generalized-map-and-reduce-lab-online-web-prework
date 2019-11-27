@@ -5,6 +5,7 @@ def map(array)
   i = 0 
   while i < array.length do 
     
+    i += 1
 end
 # map_to_negative(x) {|n| n * -1}
 
