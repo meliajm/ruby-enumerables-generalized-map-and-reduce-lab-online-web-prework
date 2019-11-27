@@ -11,6 +11,7 @@ def map(array)
 end
 
 def reduce(array, option=nil)
+  
   index = 0 
   result = 
   while index < array.length do 
