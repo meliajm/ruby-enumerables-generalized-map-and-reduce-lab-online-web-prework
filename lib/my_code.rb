@@ -24,21 +24,6 @@ def reduce(array, option=nil)
   sum
 end 
 
-
-def reduce_to_all_true(source_array)
-  index = 0 
-  result = true 
-  while index < source_array.length do 
-    if source_array[index]
-      result
-    else
-      result = false
-    end
-  index += 1  
-  end
-  result
-end
-
 # map_to_negative(x) {|n| n * -1}
 
 # require 'pry'
