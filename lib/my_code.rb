@@ -16,6 +16,7 @@ def reduce(array, option=nil)
     i = 0 
   else
     sum = array[0]
+    i = 1 
   end
   while 
   index = 0 
