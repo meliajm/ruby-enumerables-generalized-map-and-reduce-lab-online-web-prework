@@ -13,7 +13,7 @@ def map(source_array) #block?
   yield(new)
 end 
 
-map(array) do |news|
+map([1,2,3]) do |news|
   news * -1
 end
 # map([1,2,3], -1) do |innards|
