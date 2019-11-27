@@ -3,7 +3,7 @@
 def map(array)
   new = []
   i = 0 
-  while i < source_array.length do 
+  while i < array.length do 
     
 end
 # map_to_negative(x) {|n| n * -1}
