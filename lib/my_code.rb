@@ -10,6 +10,10 @@ def map(array)
   new 
 end
 
+def reduce(array, option=nil)
+  
+end 
+
 
 # map_to_negative(x) {|n| n * -1}
 
