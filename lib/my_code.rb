@@ -6,6 +6,7 @@ def map(array)
   while i < array.length do 
     yield(array[i])
     i += 1
+  end
 end
 # map_to_negative(x) {|n| n * -1}
 
