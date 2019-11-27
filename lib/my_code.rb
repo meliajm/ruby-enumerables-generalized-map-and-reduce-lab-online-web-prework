@@ -12,7 +12,11 @@ end
 
 def reduce(array, option=nil)
   if option
-    
+    sum = option
+  else
+    sum = array[0]
+  end
+  while 
   index = 0 
   result = 
   while index < array.length do 
